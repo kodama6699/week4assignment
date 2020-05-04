@@ -12,3 +12,7 @@ def display_inventory(inventory):
 
 if __name__ == '__main__':
     display_inventory(stuff)
+    
+    
+
+
